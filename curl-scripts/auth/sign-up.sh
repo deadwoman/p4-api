@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#! API="https://enigmatic-fortress-92738.herokuapp.com/"
+#! API="https://enigmatic-fortress-92738.herokuapp.com"
 API="http://localhost:4741"
 URL_PATH="/sign-up"
 

@@ -1,38 +1,46 @@
-# Vegetarian Food Alternatives API
-This is the API for the Vegetarian Food Alternatives Database.
+# Grocery Budget & Shopping List
+
+This is the API for the Grocery Budget & Shopping List web app.
 
 # Important Links
-[Client Repository](https://github.com/deadwoman/veg-alt-client)
-[Deployed Client](https://deadwoman.github.io/veg-alt-client/)
-[API Repository](https://github.com/deadwoman/veg-atl-api)
-[Deployed API](https://shrouded-oasis-07530.herokuapp.com/)
+
+[Client Repository](https://github.com/deadwoman/p4-client)
+
+[Deployed Client](https://deadwoman.github.io/p4-client/)
+
+[API Repository](https://github.com/deadwoman/p4-api)
+
+[Deployed API](https://enigmatic-fortress-92738.herokuapp.com/)
 
 # Planning Story
+
 Day 1: Wrap Up Planning, Begin API & Client Setup
-Day 2: Page design/layout, continue working on API
+Day 2: Page design/layout, continue working on back-end, start front-end
 Day 3: Continue working on the API & front end
-Day 4: Final Edits
+Day 4: Final Edits, Read Me, and Deploying
 
 # User Stories
-- As a user I want to be able to log vegan/vegetarian alternatives
-- As a user I want to be able to log the non-vegetarian food item
-- As a user I want to be able to log what type of food it is. (vegan or vegetarian)
-- As a user I want to be able to log where to buy this alternative
-- As a user I want to be able to sign up
-- As a user I want to be able to sign in, sign out, and change my password
-- As a user I want to be able to delete logged items.
+
+- As an unauthorized user I want to be able to sign-in, sign-up, change password, and logout
+- As a user I want to be able to add a budget amount
+- As a user I want to view my grocery list
+- As a user I want to be able to add a product name and it's expense amount
+- As a user I want to be able to update the budget amount
+- As a user I want to be able to update a product name and amount
+- As a user I want to be able to delete a a product/expense
 
 # Technologies Used
+
 - Mongodb & Mongoose
 - Express
 - jQuery
 - Javascript
--
+
 # Wireframes:
 
-[Wireframe 1](https://imgur.com/a/gXUihtJ)
-
-[Wireframe 1](https://imgur.com/a/dzfyXns)
+[Wireframe 1](https://imgur.com/a/HiZdrmY)
+[Wireframe 2](https://imgur.com/a/dzfyXns)
 
 # ERD:
-[ERD](https://imgur.com/a/SCOhinM)
+
+[ERD](https://imgur.com/a/zqJBS7h)

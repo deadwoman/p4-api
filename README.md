@@ -2,9 +2,9 @@
 
 This is the API for the Grocery Budget & Shopping List web app.
 
-![image](https://i.imgur.com/000gGLN.png)
+![image](https://i.imgur.com/ilEDyvk.png)
 
-![image](https://i.imgur.com/c6dSYrR.png)
+![image](https://imgur.com/a/kpV2jAz)
 
 # Important Links
 

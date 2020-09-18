@@ -2,6 +2,10 @@
 
 This is the API for the Grocery Budget & Shopping List web app.
 
+![image](https://i.imgur.com/000gGLN.png)
+
+![image](https://i.imgur.com/c6dSYrR.png)
+
 # Important Links
 
 [Client Repository](https://github.com/deadwoman/p4-client)

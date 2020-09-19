@@ -1,10 +1,10 @@
-# Grocery Budget & Shopping List
-
-This is the API for the Grocery Budget & Shopping List web app.
-
 ![image](https://i.imgur.com/ilEDyvk.png)
 
 ![image](https://i.imgur.com/O5mSxHI.png)
+
+# Grocery Budget & Shopping List
+
+This is the API for the Grocery Budget & Shopping List web app.
 
 # Important Links
 
@@ -15,6 +15,20 @@ This is the API for the Grocery Budget & Shopping List web app.
 [API Repository](https://github.com/deadwoman/p4-api)
 
 [Deployed API](https://enigmatic-fortress-92738.herokuapp.com/)
+
+# Setup & Installation
+
+1. Download this template.
+2. Move the .zip file to your sei/projects/ directory and Unzip it (creating a folder) -- NOTE: if the folder was already unzipped, use the mv command line to move it to the sei/projects/ directory.
+3. Rename the directory from express-api-template -> your-app-name.
+4. Empty README.md and fill with your own content.
+5. Move into the new project and git init.
+6. Replace all instances of 'express-api-template' with your app name.
+7. Install dependencies with npm install.
+8. Ensure that you have nodemon installed by running npm install -g nodemon.
+9. Ensure the API is functioning properly by running npm run server.
+10. Once everything is working, make an initial commit.
+11. Follow the steps in express-api-deployment-guide
 
 # Planning Story
 
@@ -48,3 +62,14 @@ Day 4: Final Edits, Read Me, and Deploying
 # ERD:
 
 [ERD](https://imgur.com/a/zqJBS7h)
+
+# Routes:
+
+4 RESTful routes:
+GET
+POST
+PUT/PATCH
+DELETE
+
+A catalog of routes (paths and methods) that the API expects.
+Set up and installation instructions for back end application

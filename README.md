@@ -65,11 +65,10 @@ Day 4: Final Edits, Read Me, and Deploying
 
 # Routes:
 
+A catalog of routes (paths and methods) that the API expects.
+
 4 RESTful routes:
 GET
 POST
 PUT/PATCH
 DELETE
-
-A catalog of routes (paths and methods) that the API expects.
-Set up and installation instructions for back end application

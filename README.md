@@ -1,10 +1,10 @@
-![image](https://i.imgur.com/ilEDyvk.png)
-
-![image](https://i.imgur.com/O5mSxHI.png)
-
 # Grocery Budget & Shopping List
 
 This is the API for the Grocery Budget & Shopping List web app.
+
+![image](https://i.imgur.com/92nfIoF.png)
+
+![image](https://i.imgur.com/O5mSxHI.png)
 
 # Important Links
 
@@ -20,7 +20,7 @@ This is the API for the Grocery Budget & Shopping List web app.
 
 1. Download this template.
 2. Move the .zip file to your sei/projects/ directory and Unzip it (creating a folder) -- NOTE: if the folder was already unzipped, use the mv command line to move it to the sei/projects/ directory.
-3. Rename the directory from express-api-template -> your-app-name.
+3. Rename the directory from p4-api -> your-app-name.
 4. Empty README.md and fill with your own content.
 5. Move into the new project and git init.
 6. Replace all instances of 'express-api-template' with your app name.
@@ -65,10 +65,7 @@ Day 4: Final Edits, Read Me, and Deploying
 
 # Routes:
 
-A catalog of routes (paths and methods) that the API expects.
-
-4 RESTful routes:
-GET
-POST
-PUT/PATCH
-DELETE
+GET - show grocery list products
+POST - create grocery list product
+PUT/PATCH - update grocery list product
+DELETE - delete grocery list product

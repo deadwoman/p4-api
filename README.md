@@ -65,8 +65,12 @@ Day 4: Final Edits, Read Me, and Deploying
 
 # Routes:
 
-Verb URI Pattern
-GET /foods
-POST /add-food
-PATCH /foods/:id/
-DELETE /foods/:id
+Verb ------ URI Pattern
+
+GET ------ /foods
+
+POST ------ /add-food
+
+PATCH ------ /foods/:id/
+
+DELETE------ /foods/:id

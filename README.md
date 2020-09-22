@@ -56,16 +56,17 @@ Day 4: Final Edits, Read Me, and Deploying
 
 # Wireframes:
 
-[Wireframe 1](https://imgur.com/a/HiZdrmY)
-[Wireframe 2](https://imgur.com/a/dzfyXns)
+![image](https://i.imgur.com/iwqx6Eb.jpg)
+![image](https://i.imgur.com/g5aS3zQ.jpg)
 
 # ERD:
 
-[ERD](https://imgur.com/a/zqJBS7h)
+![image](https://i.imgur.com/wCtTcxE.jpg)
 
 # Routes:
 
-GET - show grocery list products
-POST - create grocery list product
-PUT/PATCH - update grocery list product
-DELETE - delete grocery list product
+Verb URI Pattern
+GET /foods
+POST /add-food
+PATCH /foods/:id/
+DELETE /foods/:id
